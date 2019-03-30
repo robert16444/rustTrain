@@ -1,46 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a95313b-c02a-4510-b285-c591b688013b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/src/glon.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/.rustc_info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/.cargo-lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/bin-enumtype-ea6e4ea2e3f61d30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/bin-enumtype-ea6e4ea2e3f61d30.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/dep-bin-enumtype-ea6e4ea2e3f61d30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/deps/enumtype-ea6e4ea2e3f61d30.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/deps/enumtype-ea6e4ea2e3f61d30.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/deps/enumtype-ea6e4ea2e3f61d30.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/enumtype.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/enumtype.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/enumtype.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/10ql4xw0tc20dcqd.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/28qnkpgfxjeiskbf.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/2oqdsq3r676tq4fg.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/38bzdk8w4c04t29b.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/3ieomtzoos38w58r.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/3lvm19pd3x5s31fg.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/55qrv9lksto63e6h.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/dkad0a0el064rky.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/e1rpvhmm48emwl2.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumtypes.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structs.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testy.iml" afterDir="false" />
+    <list default="true" id="7a95313b-c02a-4510-b285-c591b688013b" name="Default Changelist" comment="Second step in learn rust.">
+      <change afterPath="$PROJECT_DIR$/src/firstSteps.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resultandOption.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traits.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/src/glon.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/bin-enumtype-ea6e4ea2e3f61d30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/bin-enumtype-ea6e4ea2e3f61d30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/dep-bin-enumtype-ea6e4ea2e3f61d30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/.fingerprint/enumtype-ea6e4ea2e3f61d30/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/deps/enumtype-ea6e4ea2e3f61d30.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/deps/enumtype-ea6e4ea2e3f61d30.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/deps/enumtype-ea6e4ea2e3f61d30.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/enumtype.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/enumtype.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/enumtype.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/10ql4xw0tc20dcqd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/28qnkpgfxjeiskbf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/2oqdsq3r676tq4fg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/38bzdk8w4c04t29b.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/3ieomtzoos38w58r.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/3lvm19pd3x5s31fg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/55qrv9lksto63e6h.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/dkad0a0el064rky.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/e1rpvhmm48emwl2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc-20kbj4q4y2w5s/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumtype/target/debug/incremental/enumtype-f6wse615qofu/s-facp53pcui-15v67pc.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,25 +49,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/traits.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/firstSteps.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1717">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resultandOption.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/structs.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -81,15 +94,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/enumtypes.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/enumtype/src/glon.rs">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -104,6 +112,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>pri</find>
+      <find>match</find>
+      <find>_=</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Rober\IdeaProjects\testy\structs</dir>
@@ -127,13 +137,16 @@
         <option value="$PROJECT_DIR$/acoto/src/lib.rs" />
         <option value="$PROJECT_DIR$/enumtypes/src/main.rs" />
         <option value="$PROJECT_DIR$/structs/src/main.rs" />
-        <option value="$PROJECT_DIR$/enumtype/src/main.rs" />
-        <option value="$PROJECT_DIR$/src/enumtypes.rs" />
-        <option value="$PROJECT_DIR$/enumtype/src/glon.rs" />
         <option value="$PROJECT_DIR$/Cargo.toml" />
-        <option value="$PROJECT_DIR$/src/main.rs" />
         <option value="$PROJECT_DIR$/src/structs.rs" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/enumtypes.rs" />
+        <option value="$PROJECT_DIR$/enumtype/src/glon.rs" />
+        <option value="$PROJECT_DIR$/enumtype/src/main.rs" />
+        <option value="$PROJECT_DIR$/src/resultandOption.rs" />
+        <option value="$PROJECT_DIR$/src/firstSteps.rs" />
+        <option value="$PROJECT_DIR$/src/main.rs" />
+        <option value="$PROJECT_DIR$/src/traits.rs" />
       </list>
     </option>
   </component>
@@ -148,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,38 +172,26 @@
             <path>
               <item name="testy" type="b2602c69:ProjectViewProjectNode" />
               <item name="testy" type="462c0819:PsiDirectoryNode" />
-              <item name="enumtype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testy" type="462c0819:PsiDirectoryNode" />
-              <item name="enumtype" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552934499947" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553973778468" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -240,17 +242,19 @@
       <workItem from="1552597295969" duration="624000" />
       <workItem from="1552597974829" duration="1601000" />
       <workItem from="1552600865689" duration="7469000" />
-      <workItem from="1552640300766" duration="2900000" />
+      <workItem from="1552640300766" duration="12938000" />
+      <workItem from="1553967898329" duration="5689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22005000" />
+    <option name="totallyTimeSpent" value="37732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -258,6 +262,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
@@ -285,6 +290,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second step in learn rust." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second step in learn rust." />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello_cargo/src/main.rs" />
     <entry file="file://$PROJECT_DIR$/src/testttt.rs" />
@@ -309,23 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/enumtypes.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enumtype/src/glon.rs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -333,18 +325,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/libcore/result.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="245" column="9" selection-start-line="245" selection-start-column="9" selection-end-line="245" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enumtype/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/structs.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resultandOption.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firstSteps.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1717">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumtypes.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/libcore/ops/arith.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/traits.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>

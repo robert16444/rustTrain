@@ -1,6 +1,4 @@
 use std::ops::Add;
-mod enumtypes;
-mod structs;
 
 #[derive(Debug)]
 pub struct Point
@@ -23,9 +21,9 @@ impl Add for Point
 }
 
 fn main() {
- let a = Point{x:3, y:4};
- let b = Point{x:24, y:14};
+    let a = Point{x:3, y:4};
+    let b = Point{x:24, y:14};
 
- let c = a+b;
+    let c = a+b;
     println!("c = {:?}",c);
 }
