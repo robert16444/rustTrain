@@ -1,12 +1,30 @@
+extern crate rand;
+use rand::Rng;
+use rand::random;
 use std::ops::Add;
+
 mod enumtypes;
 mod structs;
 
-#[derive(Debug)]
+#[derive(Debug, Clone, Copy)]
 pub struct Point
 {
     x:i32,
     y:i32
+}
+
+impl Point
+{
+    fn random()->Self
+    {
+        let mut tr = rand::thread_rng();
+        Point
+            {
+                x:tr.gen(),
+                y:tr.gen(),
+            }
+    }
+
 }
 
 impl Add for Point
@@ -23,9 +41,8 @@ impl Add for Point
 }
 
 fn main() {
- let a = Point{x:3, y:4};
- let b = Point{x:24, y:14};
+    let x:u8 = random();
+    let d = Point::random();
+    println!("{:?}",d);
 
- let c = a+b;
-    println!("c = {:?}",c);
 }
